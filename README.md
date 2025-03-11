@@ -11,3 +11,6 @@ _"The first truth was the last lie."_
 _"What was lost was never meant to be found."_
 
 Those who find the key will know where to go.
+
+🔹 "The key is always within reach, but only if you know where to look."
+Hint: `openssl enc -aes-256-cbc -d -in Complete-Version.enc -out Daemons.pdf -pass pass:<password>`  
