@@ -5,3 +5,9 @@ _"There are pages missing. Not because they were removed, but because they were 
 This repository contains fragments of something that was never meant to be complete. Some pieces are visible. Some are hidden. 
 
 If you understand, you already know what to do.
+
+_"Some gifts are not meant to be opened. Yet they always are."_  
+_"The first truth was the last lie."_  
+_"What was lost was never meant to be found."_
+
+Those who find the key will know where to go.
